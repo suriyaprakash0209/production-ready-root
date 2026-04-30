@@ -191,22 +191,6 @@ docker run -p 5000:5000 flask-app
 
 ---
 
-## 🎯 Outcome
-
-This project demonstrates a **junior-to-intermediate DevOps engineer capability** with exposure to production-style deployment pipelines and cloud infrastructure integration.
-
----
-
-## 📌 Next Improvements (Roadmap)
-
-* Add Terraform for Infrastructure as Code (IaC)
-* Implement monitoring (CloudWatch / Prometheus)
-* Add rollback strategy in CI/CD
-* Add load balancing (ALB)
-* Secure deployment with IAM roles & secrets manager
-
----
-
 ## 👨‍💻 Author
 
-DevOps Learning Project – Full CI/CD Pipeline Simulation
+DevOps Project – Full CI/CD Pipeline Simulation
